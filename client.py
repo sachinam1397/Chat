@@ -1,4 +1,3 @@
-#Jyoti Singh
 #Sachinam Srivastava
 from socket import *
 from threading import *
